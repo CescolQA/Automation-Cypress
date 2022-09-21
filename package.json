@@ -1,0 +1,19 @@
+{
+  "name": "automation-cypress-m3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.8.0",
+    "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
